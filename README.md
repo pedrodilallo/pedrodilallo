@@ -44,6 +44,7 @@
 <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/388785?s=200&v=4" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/archlinux_logo_icon_167835.png" width="40" height="40"/>&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/2048px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="40" height="40"/>&nbsp; 
 </p>
  
 ### Work 

@@ -8,7 +8,7 @@
 
 * I'm really interested in optimization and data science, especially to solve complex problems faster and better.
 
-* I look forward to apply my studies in routing and finance.
+* I look forward to apply my studies in routing, finance and consulting.
 
 * Learning machine learning by participating in kaggle competitions.
 
@@ -23,10 +23,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="40" height="40"/>&nbsp;
 </p>
 
-***
+
 ### Tools 
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>&nbsp;
+</p>
  
-<p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=177B57&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=177B57&height=120&section=footer"/>
+ 

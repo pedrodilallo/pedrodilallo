@@ -43,10 +43,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/388785?s=200&v=4" width="40" height="40"/>&nbsp;
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/archlinux_logo_icon_167835.png" width="40" height="40"/>&nbsp;
- 
- 
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/archlinux_logo_icon_167835.png" width="40" height="40"/>&nbsp; 
 </p>
  
+### Work 
+
+* [CARACTERIZAÇÃO DOS UNICÓRNIOS BRASILEIROS](https://www.even3.com.br/Anais/vii-enei/642997-CARACTERIZACAO-DOS-UNICORNIOS-BRASILEIROS)
+  * Worked with Marcelo SIlva Pinho, Ana Torkomian and Debora Regina Taño  
+* [A EXPERIÊNCIA NORTE-AMERICANA COM SUBVENÇÃO DIRETA À INOVAÇÃO EM PEQUENAS EMPRESAS: O PROGRAMA SMALL BUSINESS INNOVATION RESEARCH (SBIR)](https://www.even3.com.br/anais/vii-enei/643000-a-experiencia-norte-americana-com-subvencao-direta-a-inovacao-em-pequenas-empresas--o-programa-small-business-inn/)
+  * Worked with Marcelo SIlva Pinho, Ana Torkomian and Debora Regina Taño  
+
+
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001936&height=120&section=footer"/>
  

@@ -17,7 +17,7 @@
 
 * Learning machine learning by participating in kaggle competitions.
 
-* Currently in a Academic Research Proejct of Route Planning Optimization in a multiperiod approach for a problem with time constraints.
+* Currently in a Academic Research Proejct of Route Planning Optimization in a multiperiod approach for a problem with time window constraints.
 
 ### Langs
 

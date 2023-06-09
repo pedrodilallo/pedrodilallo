@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001936&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6F5F4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F78400&size=35&center=true&vCenter=true&width=1000&lines=Hi!,I'm+Pedro+Peverari+Di+Lallo;I+study+Industrial+Engineering+at+UFSCar,;in+Brazil;Be+Welcome+To+My+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F78400&size=35&center=true&vCenter=true&width=1000&lines=Hi!,I'm+Pedro+Peverari+Di+Lallo;I+study+Industrial+Engineering+at+UFSCar,;in+Brazil;Be+Welcome+To+My+Github+Profile!)](https://git.io/typing-svg)
 
 <div align="center">
  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" height = "300", width = "400">
@@ -57,5 +57,5 @@
   * Worked with Marcelo SIlva Pinho, Ana Torkomian and Debora Regina Taño  
 
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001936&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6F5F4&height=120&section=footer"/>
  
